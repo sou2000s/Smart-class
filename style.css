@@ -1,12 +1,41 @@
 
 
+/* carosul detail */
+ @media screen and (max-width:576px) {
+      .custom-caption-slider-1{
+      font-size: 15px;
+      margin-bottom: -94px;
+ }
+ .custom-caption-slider-2{
+    font-size: 12px;
+    margin-bottom: -94px;
+ }
+ .custom-caption-slider-2 .custom-style{
+    font-size: 10px;
+ }
 
+ .custom-caption-slider-2 .button {
+    margin-bottom: 20px;
+ }
 
+ .custom-caption-slider-3{
+  margin-bottom: -95px;
+ }
 
+ .custom-caption-slider-3 .button{
+    margin-bottom: 20px;
+ }
+ }
+ 
+
+/* course li */
 .custom-li{
     list-style-type: none;
 }
 
+
+
+/* footer */
 .custom-footer{
     padding-top: 50px;
 }
